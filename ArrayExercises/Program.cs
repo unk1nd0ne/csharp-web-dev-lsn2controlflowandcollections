@@ -7,6 +7,7 @@ namespace ArrayExercises
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Arrays!");
+            ArrayLoop.Loop();
         }
     }
 }

@@ -7,6 +7,7 @@ namespace StringExercises
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Strings!");
+            StringArray.SplitJoin();
         }
     }
 }
